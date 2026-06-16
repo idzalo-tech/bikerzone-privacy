@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bikerzone.app",
+      "sha256_cert_fingerprints": [
+        "DF:0C:B0:EF:94:BC:99:8C:07:6A:FB:27:EC:16:70:9B:DA:11:D9:F3:DA:86:F2:AD:54:FC:12:28:35:BF:6C:9F"
+      ]
+    }
+  }
+]
