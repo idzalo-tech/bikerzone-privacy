@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.bikerzone.app",
       "sha256_cert_fingerprints": [
-        "DF:0C:B0:EF:94:BC:99:8C:07:6A:FB:27:EC:16:70:9B:DA:11:D9:F3:DA:86:F2:AD:54:FC:12:28:35:BF:6C:9F"
+        "DF:0C:B0:EF:94:BC:99:8C:07:6A:FB:27:EC:16:70:9B:DA:11:D9:F3:DA:86:F2:AD:54:FC:12:28:35:BF:6C:9F",
+        "01:2E:67:9E:FD:85:89:29:6E:19:6E:33:86:07:CB:1E:07:8A:99:5E:25:04:72:8C:68:B6:AF:B2:60:11:42:31"
       ]
     }
   }
